@@ -455,7 +455,7 @@ The user/client types in the url of a webpage in a browser, the request is sent 
 
 ---
 
-### Day 33
+### Day 34
 
 ##### NPM packages and how the internet works
 
@@ -480,5 +480,21 @@ Web application are dynamic websites with functionality like logging in, signing
 **Results:** I was able to understand how the internet works behind the scenes.
 
 ![Dynamic website process](assets/img/dynamic.png)
+
+---
+
+### Day 35
+
+##### Blog post
+
+**Today's Progress**
+
+#### Learning how to code through github repository.
+
+- I created a blog post where I shared github resources that I have found useful over the time I am coding. It's always good to share with the community and help other code newbies out. To be honest I wish I had found these resources earlier in my journey but that's why I wrote it, to help others.
+
+**Results:** ✍ Dev.to blog post [Learning how to code through GitHub repository](https://dev.to/tracycss/learning-code-through-github-repositories-2bp7)
+
+![dev to blog post](assets/img/day-35.gif)
 
 ---
