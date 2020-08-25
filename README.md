@@ -498,3 +498,19 @@ Web application are dynamic websites with functionality like logging in, signing
 ![dev to blog post](assets/img/day-35.gif)
 
 ---
+
+### Day 36
+
+##### Open Source Contribution
+
+**Today's Progress**
+
+#### Learning how to use flags and create a pull request.
+
+- I want to start contributing to Open Source projects and be better at my coding skills. It's a good way of to get other developers to review your code plus the feeling you get when your pull request is accepted, it's amazing. I decided to contribute to Protege.dev website. This is a good platform where junior developers can get remote jobs and gain experince through WFH(work from home).
+
+**Results:** ✍ Became a first contributor to [Protoge](https://protege.dev/)
+
+![Dev protoge](assets/img/day-36.png)
+
+---
