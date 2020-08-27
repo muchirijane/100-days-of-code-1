@@ -514,3 +514,53 @@ Web application are dynamic websites with functionality like logging in, signing
 ![Dev protoge](assets/img/day-36.png)
 
 ---
+
+### Day 36
+
+##### Open Source Contribution
+
+**Today's Progress**
+
+#### Learning how to use flags and create a pull request.
+
+- I want to start contributing to Open Source projects and be better at my coding skills. It's a good way of to get other developers to review your code plus the feeling you get when your pull request is accepted, it's amazing. I decided to contribute to Protege.dev website. This is a good platform where junior developers can get remote jobs and gain experince through WFH(work from home).
+
+**Results:** ✍ Became a first contributor to [Protoge](https://protege.dev/)
+
+![Dev protoge](assets/img/day-36.png)
+
+---
+
+### Day 37
+
+##### Github Action
+
+**Today's Progress**
+
+#### Started reading the Github Action documentation
+
+- Earlier in the day, I created another pull request to solve another issue on Dev Protege and It was merged into the main project repository. Yeah, the feel is good. I was able to learn how to create a issue template that includes a bug report and a feature request. I then headed to the Github Action documentation page to learn how to create a javascript action. I have never used CI/CD workflows, all this is totally new to me but I will learn how to use it.
+
+**Results:** ✍ Getting another PR merged and getting to know what Github action is.
+
+![github action](assets/img/day-36.png)
+
+---
+
+### Day 38
+
+##### Github Action
+
+**Today's Progress**
+
+#### Continued reading the Github Action documentation
+
+- Step by step I created the hello world github action which is created in javascript. I got to read the [documentation](https://docs.github.com/en/actions/creating-actions/metadata-syntax-for-github-actions#runsstepsenv) and learn about different metadata syntax that should be used when creating an action.
+
+**Results:** 👩‍💻 Greated the Github action Hello World.
+
+[Tweet](https://twitter.com/TracyCss/status/1299070758493261824)
+
+![github action](assets/img/day-38.png)
+
+---
