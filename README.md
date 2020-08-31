@@ -564,3 +564,20 @@ Web application are dynamic websites with functionality like logging in, signing
 ![github action](assets/img/day-38.png)
 
 ---
+
+### Day 39
+
+##### Github Action
+
+**Today's Progress**
+
+#### Continued reading the Github Action documentation
+
+- Started to create my own action. I want to use json file to connect it to the readme file. I got some tests to pass but some failed. I will still continue to do my research on it and see how I can resolve the failed test. As a first timer doing this, It's not easy at all, but I love the change. 
+
+**Results:** 👩‍💻 Started to create my own Github action.
+
+
+![](https://media.giphy.com/media/IPbS5R4fSUl5S/giphy.gif)
+
+---
