@@ -455,7 +455,7 @@ The user/client types in the url of a webpage in a browser, the request is sent 
 
 ---
 
-### Day 33
+### Day 34
 
 ##### NPM packages and how the internet works
 
@@ -480,5 +480,104 @@ Web application are dynamic websites with functionality like logging in, signing
 **Results:** I was able to understand how the internet works behind the scenes.
 
 ![Dynamic website process](assets/img/dynamic.png)
+
+---
+
+### Day 35
+
+##### Blog post
+
+**Today's Progress**
+
+#### Learning how to code through github repository.
+
+- I created a blog post where I shared github resources that I have found useful over the time I am coding. It's always good to share with the community and help other code newbies out. To be honest I wish I had found these resources earlier in my journey but that's why I wrote it, to help others.
+
+**Results:** ✍ Dev.to blog post [Learning how to code through GitHub repository](https://dev.to/tracycss/learning-code-through-github-repositories-2bp7)
+
+![dev to blog post](assets/img/day-35.gif)
+
+---
+
+### Day 36
+
+##### Open Source Contribution
+
+**Today's Progress**
+
+#### Learning how to use flags and create a pull request.
+
+- I want to start contributing to Open Source projects and be better at my coding skills. It's a good way of to get other developers to review your code plus the feeling you get when your pull request is accepted, it's amazing. I decided to contribute to Protege.dev website. This is a good platform where junior developers can get remote jobs and gain experince through WFH(work from home).
+
+**Results:** ✍ Became a first contributor to [Protoge](https://protege.dev/)
+
+![Dev protoge](assets/img/day-36.png)
+
+---
+
+### Day 36
+
+##### Open Source Contribution
+
+**Today's Progress**
+
+#### Learning how to use flags and create a pull request.
+
+- I want to start contributing to Open Source projects and be better at my coding skills. It's a good way of to get other developers to review your code plus the feeling you get when your pull request is accepted, it's amazing. I decided to contribute to Protege.dev website. This is a good platform where junior developers can get remote jobs and gain experince through WFH(work from home).
+
+**Results:** ✍ Became a first contributor to [Protoge](https://protege.dev/)
+
+![Dev protoge](assets/img/day-36.png)
+
+---
+
+### Day 37
+
+##### Github Action
+
+**Today's Progress**
+
+#### Started reading the Github Action documentation
+
+- Earlier in the day, I created another pull request to solve another issue on Dev Protege and It was merged into the main project repository. Yeah, the feel is good. I was able to learn how to create a issue template that includes a bug report and a feature request. I then headed to the Github Action documentation page to learn how to create a javascript action. I have never used CI/CD workflows, all this is totally new to me but I will learn how to use it.
+
+**Results:** ✍ Getting another PR merged and getting to know what Github action is.
+
+![github action](assets/img/day-36.png)
+
+---
+
+### Day 38
+
+##### Github Action
+
+**Today's Progress**
+
+#### Continued reading the Github Action documentation
+
+- Step by step I created the hello world github action which is created in javascript. I got to read the [documentation](https://docs.github.com/en/actions/creating-actions/metadata-syntax-for-github-actions#runsstepsenv) and learn about different metadata syntax that should be used when creating an action.
+
+**Results:** 👩‍💻 Greated the Github action Hello World.
+
+[Tweet](https://twitter.com/TracyCss/status/1299070758493261824)
+
+![github action](assets/img/day-38.png)
+
+---
+
+### Day 39
+
+##### Github Action
+
+**Today's Progress**
+
+#### Continued reading the Github Action documentation
+
+- Started to create my own action. I want to use json file to connect it to the readme file. I got some tests to pass but some failed. I will still continue to do my research on it and see how I can resolve the failed test. As a first timer doing this, It's not easy at all, but I love the change. 
+
+**Results:** 👩‍💻 Started to create my own Github action.
+
+
+![](https://media.giphy.com/media/IPbS5R4fSUl5S/giphy.gif)
 
 ---
