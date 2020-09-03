@@ -515,21 +515,6 @@ Web application are dynamic websites with functionality like logging in, signing
 
 ---
 
-### Day 36
-
-##### Open Source Contribution
-
-**Today's Progress**
-
-#### Learning how to use flags and create a pull request.
-
-- I want to start contributing to Open Source projects and be better at my coding skills. It's a good way of to get other developers to review your code plus the feeling you get when your pull request is accepted, it's amazing. I decided to contribute to Protege.dev website. This is a good platform where junior developers can get remote jobs and gain experince through WFH(work from home).
-
-**Results:** ✍ Became a first contributor to [Protoge](https://protege.dev/)
-
-![Dev protoge](assets/img/day-36.png)
-
----
 
 ### Day 37
 
@@ -543,7 +528,7 @@ Web application are dynamic websites with functionality like logging in, signing
 
 **Results:** ✍ Getting another PR merged and getting to know what Github action is.
 
-![github action](assets/img/day-36.png)
+![gif](https://media.giphy.com/media/TjRcLDHDgLOWiI0L1V/giphy.gif)
 
 ---
 
@@ -579,5 +564,37 @@ Web application are dynamic websites with functionality like logging in, signing
 
 
 ![](https://media.giphy.com/media/IPbS5R4fSUl5S/giphy.gif)
+
+---
+
+### Day 40
+
+##### Blog post
+
+**Today's Progress**
+
+#### Open Source Contribution for Beginners.
+
+- I created a blog post about open source contribution and how I got started. I worte the truth and some might think it was funny or simple but for a beginner it was a big step for me. With the Hackobter coming next month, I thought the post would be useful for beginners out there. I guess I am writing post I wish I had read before to guide me in the beginning of my journey. 
+
+**Results:** ✍ Dev.to blog post [Open Source Contribution](https://dev.to/tracycss/learning-code-through-github-repositories-2bp7)
+
+![dev to blog post](assets/img/day-40.png)
+
+---
+
+### Day 41
+
+##### What I am Upto now
+
+**Today's Progress**
+
+#### Learning React Js.
+
+- I started learning React Js for a project I want to be involved with. The team is amazing and I would love to be part of that community which welcomes beginners and allow them to grow. I will be contracting om React Js for the next 2-3 months fully. Long days and long nights ahead of me but the results will be amazing. I have started to use FreeCodeCamp to get started with React Js basics. I can now see the difference btw Html and JSX and how to create class names with CamelCase format. I can't wait to learn more. 
+
+**Results:** ✍ Learnt how to create JSX syntax and to create react components. 
+
+![dev to blog post](assets/img/day-41.png)
 
 ---
