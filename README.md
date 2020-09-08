@@ -515,7 +515,6 @@ Web application are dynamic websites with functionality like logging in, signing
 
 ---
 
-
 ### Day 37
 
 ##### Github Action
@@ -558,10 +557,9 @@ Web application are dynamic websites with functionality like logging in, signing
 
 #### Continued reading the Github Action documentation
 
-- Started to create my own action. I want to use json file to connect it to the readme file. I got some tests to pass but some failed. I will still continue to do my research on it and see how I can resolve the failed test. As a first timer doing this, It's not easy at all, but I love the change. 
+- Started to create my own action. I want to use json file to connect it to the readme file. I got some tests to pass but some failed. I will still continue to do my research on it and see how I can resolve the failed test. As a first timer doing this, It's not easy at all, but I love the change.
 
 **Results:** 👩‍💻 Started to create my own Github action.
-
 
 ![](https://media.giphy.com/media/IPbS5R4fSUl5S/giphy.gif)
 
@@ -575,7 +573,7 @@ Web application are dynamic websites with functionality like logging in, signing
 
 #### Open Source Contribution for Beginners.
 
-- I created a blog post about open source contribution and how I got started. I worte the truth and some might think it was funny or simple but for a beginner it was a big step for me. With the Hackobter coming next month, I thought the post would be useful for beginners out there. I guess I am writing post I wish I had read before to guide me in the beginning of my journey. 
+- I created a blog post about open source contribution and how I got started. I worte the truth and some might think it was funny or simple but for a beginner it was a big step for me. With the Hackobter coming next month, I thought the post would be useful for beginners out there. I guess I am writing post I wish I had read before to guide me in the beginning of my journey.
 
 **Results:** ✍ Dev.to blog post [Open Source Contribution](https://dev.to/tracycss/learning-code-through-github-repositories-2bp7)
 
@@ -583,7 +581,7 @@ Web application are dynamic websites with functionality like logging in, signing
 
 ---
 
-### Day 41
+### Day 41-42
 
 ##### What I am Upto now
 
@@ -591,10 +589,44 @@ Web application are dynamic websites with functionality like logging in, signing
 
 #### Learning React Js.
 
-- I started learning React Js for a project I want to be involved with. The team is amazing and I would love to be part of that community which welcomes beginners and allow them to grow. I will be contracting om React Js for the next 2-3 months fully. Long days and long nights ahead of me but the results will be amazing. I have started to use FreeCodeCamp to get started with React Js basics. I can now see the difference btw Html and JSX and how to create class names with CamelCase format. I can't wait to learn more. 
+- I started learning React Js for a project I want to be involved with. The team is amazing and I would love to be part of that community which welcomes beginners and allow them to grow. I will be contracting om React Js for the next 2-3 months fully. Long days and long nights ahead of me but the results will be amazing. I have started to use FreeCodeCamp to get started with React Js basics. I can now see the difference btw Html and JSX and how to create class names with CamelCase format. I can't wait to learn more.
 
-**Results:** ✍ Learnt how to create JSX syntax and to create react components. 
+**Results:** ✍ Learnt how to create JSX syntax and to create react components.
 
 ![dev to blog post](assets/img/day-41.png)
+
+---
+
+### Day 43
+
+##### Dev blog post
+
+**Today's Progress**
+
+#### Renaming master branch to main branch.
+
+- From 1ST October 2020, Github will make the main branch the default branch which is amazing. The funny thing is, I just learned about it last week. I decided to make a blog post to let others know how to change it. It's always good to share information as you learn that's how I understand things better through research and writing.
+
+**Results:** ✍ Posted another blog post on Dev.to [Renaming master to main branch](https://dev.to/tracycss/renaming-your-master-branch-to-main-in-github-24cm)
+
+**Tweet** The post was also retweet by [Dev.to](https://twitter.com/ThePracticalDev/status/1303091174245269509)
+
+![dev to blog post](assets/img/day-43.png)
+
+---
+
+### Day 44
+
+##### Desigining in Figma
+
+**Today's Progress**
+
+#### Designing beats studio3.
+
+- I have always been using Photoshop or Adobe XD for design but when I started learning how to code during the lockdown, I shifted to Figma. Most because of the code snipped thay have. It makes it easier to code faster when you can see the height and width of your component in each frame. I used the bests by Dre offical website to get an inspiration to create another version of it but for only the skyline collection. I have always loved the quality of these headphones used them once when watching a movie and I immediately fell in love with them. Hope I will have enough money to buy one or two someday.
+
+**Results:** ✍ Greated the syline collection website for beats by Dre and made different frames from desktop to mobile. It always good to make website responsive.
+
+![dev to blog post](assets/img/day-44.png)
 
 ---
