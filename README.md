@@ -625,8 +625,40 @@ Web application are dynamic websites with functionality like logging in, signing
 
 - I have always been using Photoshop or Adobe XD for design but when I started learning how to code during the lockdown, I shifted to Figma. Most because of the code snipped thay have. It makes it easier to code faster when you can see the height and width of your component in each frame. I used the bests by Dre offical website to get an inspiration to create another version of it but for only the skyline collection. I have always loved the quality of these headphones used them once when watching a movie and I immediately fell in love with them. Hope I will have enough money to buy one or two someday.
 
-**Results:** ✍ Greated the syline collection website for beats by Dre and made different frames from desktop to mobile. It always good to make website responsive.
+**Results:** ✍ Created the skyline collection website for beats by Dre and made different frames from desktop to mobile. It always good to make website responsive.
 
 ![dev to blog post](assets/img/day-44.png)
+
+---
+
+### Day 45-46
+
+##### Coding in Figma
+
+**Today's Progress**
+
+#### Building beats studio3.
+
+- The past three days have been helpful. I was able to starting a real small website project that I designed in Figma. I wanted to go through the whole process of sketching, responsive design in figma to coding the website. I used Tailwind CSS a Css framework to learn and practice. The only way to I understand is by doing and seeing everything detail completed to the end. I used some custom css style like the colors, insets, rems, font family and font sizes to ensure the coded website looked like the design (Talkimg about making things pixel perfect. hahaha). I never used min-width in my coding, so it took a minute before I got used to it. But I can say I love Tailind Css and I will be using it more in my projects.
+
+**Results:** ✍ Coded a responsive website with Tailwind Css called [Beats studio3](https://github.com/muchirijane/Beats-studio3) by Beats by Dre. 
+
+<!-- ![dev to blog post](assets/img/day-44.png) -->
+
+---
+
+### Day 47
+
+##### Dev to blog post
+
+**Today's Progress**
+
+#### Tailwind css resources.
+
+- After building the beats by dre website I decided to write an articles about tool or resources I found useful in my journey. As they say, sharing. 
+
+**Results:** ✍ [Tailwind Css resources you wish you had]().
+
+![dev to blog post](assets/img/day-47.png)
 
 ---
