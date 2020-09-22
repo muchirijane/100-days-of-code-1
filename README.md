@@ -641,7 +641,7 @@ Web application are dynamic websites with functionality like logging in, signing
 
 - The past three days have been helpful. I was able to starting a real small website project that I designed in Figma. I wanted to go through the whole process of sketching, responsive design in figma to coding the website. I used Tailwind CSS a Css framework to learn and practice. The only way to I understand is by doing and seeing everything detail completed to the end. I used some custom css style like the colors, insets, rems, font family and font sizes to ensure the coded website looked like the design (Talkimg about making things pixel perfect. hahaha). I never used min-width in my coding, so it took a minute before I got used to it. But I can say I love Tailind Css and I will be using it more in my projects.
 
-**Results:** ✍ Coded a responsive website with Tailwind Css called [Beats studio3](https://github.com/muchirijane/Beats-studio3) by Beats by Dre. 
+**Results:** ✍ Coded a responsive website with Tailwind Css called [Beats studio3](https://github.com/muchirijane/Beats-studio3) by Beats by Dre.
 
 <!-- ![dev to blog post](assets/img/day-44.png) -->
 
@@ -655,10 +655,90 @@ Web application are dynamic websites with functionality like logging in, signing
 
 #### Tailwind css resources.
 
-- After building the beats by dre website I decided to write an articles about tool or resources I found useful in my journey. As they say, sharing. 
+- After building the beats by dre website I decided to write an articles about tool or resources I found useful in my journey. As they say, sharing.
 
-**Results:** ✍ [Tailwind Css resources you wish you had]().
+**Results:** ✍ [Tailwind Css resources you wish you had](https://dev.to/tracycss/tailwind-css-resources-you-wish-you-had-3i18).
 
 ![dev to blog post](assets/img/day-47.png)
+
+---
+
+### Day 48
+
+##### React Js
+
+**Today's Progress**
+
+#### Used Free code camp to learn more about react
+
+- Did some exercises on JSX, how to build a stateful component and a stateless component. Used codepen to render some react elements to the DOM.
+
+**Results:** ✍ Got started with React Javascript.
+
+[happy gif](https://media.giphy.com/media/K3RobtjwbSjPq/giphy.gif)
+
+---
+
+### Day 49
+
+##### Figma conference and some reacct coding
+
+**Today's Progress**
+
+#### Attended the figma conference and review some react syntax
+
+- I was able to attend the figma confrence that was held virtually on their website. I got to learn a lot about web accessibility in terms of design, dived into design stystems and how to build one, attend the talk about how Ikea design were builded by their team and lastly I got to attend a talk about promoting yourself and your work. I later started looking at my react notes on the JSX syntax, how to use class component to manipulate the DOM. It was good to go back to your notes when you are learning something new.
+
+**Results:** ✍ Attended the Figma Euro Conference and revised on JSX syntax and react components.
+
+![figma conference](assets/img/day-49.png)
+
+---
+
+### Day 50-51
+
+##### Learned about useState in React
+
+**Today's Progress**
+
+#### Going down the path to know about useState in react
+
+- Got to learn more about useState by Max in Udemy. This lesson explains how you can both write with class component and also useState to get the same result when write state and changing it with setState method. I also got to learn about handling event handlers in React lick onClick and onChange. I got to love using react hooks at least using useState instead of class component. The use of arrow functions makes it easier.
+
+**Results:** 👩‍💻 Attended the Figma Euro Conference and revised on JSX syntax and react components.
+
+![happy gif](https://media.giphy.com/media/TdfyKrN7HGTIY/giphy.gif)
+
+---
+
+### Day 52
+
+##### Dev to blog post
+
+**Today's Progress**
+
+#### Basic Javascript synatx you need to know before starting with react.
+
+- After going theough react for a few days I thought to writing a post about the ting you will need to know before going into react. Before going to react I really didn't know what I should understand more about in vanilla JavaScript before diving in. But I decided to write a post that other beginners might find useful in their journey.
+
+**Results:** ✍ [Basic Javascript syntax to know before starting react Js ](https://dev.to/tracycss/the-vanilla-javascript-basics-to-know-before-learning-react-js-53aj).
+
+![dev to blog post](assets/img/day-52.png)
+
+---
+
+### Day 53
+
+##### finishing my react assignment
+
+**Today's Progress**
+
+#### Got to finish my first react assignment and it was successfully deployed.
+
+- The assignment touched on everyting I have learned about React basics so far. This was a great way to ensure I got to understand the concepts taught and the some exerices I did to practice.
+
+**Results:** ✍ Got to successfully finish my first react assignment and I passed it. yeeahhh!!!
+
+|![react assignment](assets/img/day-53.png) | ![todo tasks](assets/img/tasks.png) |
 
 ---
