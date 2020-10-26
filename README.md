@@ -742,3 +742,189 @@ Web application are dynamic websites with functionality like logging in, signing
 |![react assignment](assets/img/day-53.png) | ![todo tasks](assets/img/tasks.png) |
 
 ---
+
+### Day 54
+
+##### Doing a Todo app with React
+
+**Today's Progress**
+
+#### Doing my first React project
+
+- I got to follow a React tutorial by the Tech girl on how to build a Todo app with React. I learnt how to use the state in the class coponents and use inline style to make it prettier. Some of the things I didn't understand but I know as I continue to use React, I will be less confused about how to use the components.
+
+**Results:** ✍ Got to successfully finish my first react app - The Todo project.
+
+**Live Preview** [Todo app](https://reat-todo-app.netlify.app/)
+
+![Todo app](assets/img/day54.jpg)
+
+---
+
+### Day 55
+
+##### Continuing with React basics
+
+**Today's Progress**
+
+#### Learning about state
+
+- Learnt how to manipulate the input value and make the changes be visible on the paragraph texts. I also was able to delete the cards on click.
+
+**Results:** ✍ Got to successfully finish my first react app - The Todo project.
+
+---
+
+### Day 56
+
+##### Dev to blog post
+
+**Today's Progress**
+
+#### Free React resources you should have in your pocket.
+
+- When I have been learning React for the few days I collected some resources that I found useful to me.
+
+**Results:** ✍ [Free React resources you should have in your pocket.](https://dev.to/tracycss/free-react-resources-you-should-have-in-your-pocket-4gl3).
+
+![dev to blog post](assets/img/React-resources.jpg)
+
+---
+
+### Day 57
+
+##### Second assignment
+
+**Today's Progress**
+
+#### Finishing my second react project.
+
+- The assignment was about ensuring the input value is split into individual letters that should be printed out in it's own card. When the card is clicked it's deleted and removed and the state is updated.
+
+**Results:** ✍ [Split letters project.](https://split-letters.netlify.app/).
+
+![dev to blog post](assets/img/split-letters.jpg)
+
+---
+
+### Day 58
+
+##### Syling in React
+
+**Today's Progress**
+
+#### Learning Radium.
+
+- Installing it through: npm install --save radium.
+- Importing it to the file: import Radium from 'Radium';
+- Use it as a higher order component. You can call Radium as a function and wrap your app component.
+- Export it by: export default Radium(App);
+- Adding styles to your site using👩‍💻
+
+```css
+':hover':{
+   backgroundColor: 'brown',
+   color: 'black'
+}
+```
+
+**Results:** ✍ Learned how to use Radium.
+
+![Radium styling](assets/img/Radium.jpg)
+
+---
+
+### Day 59
+
+##### Syling in React
+
+**Today's Progress**
+
+#### Learning Styled Component.
+
+- Installing it through: npm install --save styled-components.
+- Importing it to the file: import styled from 'styled-component';
+- Adding styles in your JavaScript file👩‍💻
+
+```js
+const ButtonStyled = styled.button`
+  background-color: brown;
+  color: black;
+
+  &:hover {
+    background-color: black;
+  }
+`;
+
+<ButtonStyled> This button</ButtonStyled>;
+```
+
+**Results:** ✍ Learned how to use styled component.
+
+---
+
+### Day 60
+
+##### Dev to blog post
+
+**Today's Progress**
+
+#### How to participate in hacktoberfest as a beginner.
+
+- This year was my first time participating in hacktoberfest and I wanted to share some resources to use for code newbies.
+- It always great to know where to start and what projects to be involved in during the contribution month.
+- Gave the updated news from Hacktoberfest official site about the new guidelines for this year.
+
+**Results:** ✍ [How to participate in the Hacktoberfest as a Code Newbie 💻](https://dev.to/tracycss/how-to-participate-in-the-hacktoberfest-as-a-code-newbie-1cee).
+
+![dev to blog post](assets/img/hacktoberfest.jpg)
+
+---
+
+### Day 61
+
+##### Syling in React
+
+**Today's Progress**
+
+#### Learning Styled Component and Radium.
+
+- Practiced on how to use both Radium and styled component and to be honest I do prefer styled component. I can use it to easily create css styles in the js files without a hustle. It makes the code more understandable.
+
+```js
+const ButtonStyled = styled.button`
+  background-color: brown;
+  color: black;
+
+  &:hover {
+    background-color: black;
+  }
+`;
+
+<ButtonStyled> This button</ButtonStyled>;
+```
+
+- Also attend the Summit React camp and learned a lot about React and how GraphQL works well with it. I have never used GraphQL but I will definitely learn it in future.
+
+**Results:** ✍ Learned how to use styled component deeply.
+
+**Featured blog post on Dev.to** My post about [hacktoberfest for beginners]() was featured by the DEV Team. Exetremly excited!!!!
+
+## ![Reat Summit](assets/img/react-summit.jpg)
+
+### Day 62
+
+##### Dev to blog post
+
+**Today's Progress**
+
+#### 20 React questions to use as you learn.
+
+- In order to keep up with the new terms I am learning about React i created a blog post it.
+- The questions are helpful to know, not only because you get to understand the basics but they also asked in job interviews.
+
+**Results:** ✍ [20 React questions to use as you learn 💻](https://dev.to/tracycss/20-basic-react-questions-to-help-you-as-you-learn-5eih).
+
+![dev to blog post](assets/img/react-questions.jpg)
+
+---
