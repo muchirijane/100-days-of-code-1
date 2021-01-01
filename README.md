@@ -18,8 +18,7 @@ At the end of this challenge i would love to have learnt the following:
 - Gsap Animation
 - Object Oriented Programming in JS
 - Create more front-end websites
-- Learn Vue/react js
-- Node Js
+- Learn react js
 - Improve in refactoring code and degugging
 
 This are the sections I am going to focus on to improve my front end skills. I hope during or by the end of the challange I will have a job in front end development or freelancing.
@@ -926,5 +925,157 @@ const ButtonStyled = styled.button`
 **Results:** ✍ [20 React questions to use as you learn 💻](https://dev.to/tracycss/20-basic-react-questions-to-help-you-as-you-learn-5eih).
 
 ![dev to blog post](assets/img/react-questions.jpg)
+
+---
+
+### Day 63-64
+
+##### Ultra React project
+
+**Today's Progress**
+
+#### Learning Styled Component.
+
+- Got to go through the ultra project and create it from scratch.
+- This is a Marketing agency website made with styled components and react router. You can go to different pages easily and access the content. This was easier by the help of react router. I was able to code with the help of @Briandesign on Youtube.
+- I got to learn how to use styled componets and react router for the first time. The learning isn't staright forward but with more practice and the documentation for refence, I will make more websites with React.
+
+**Results:** ✍ Build Ultra project with react and react router dom.
+
+![Ultra project](assets/img/day-64.png)
+
+---
+
+### Day 65-69
+
+##### Home Made React project
+
+**Today's Progress**
+
+#### Learning Styled Component.
+
+- After watching a React tutorial from Brian Design on youtube, I made this website to practice what I learned about React. It was fun designing the website from scratch in Figma and coding it out step by step with styled-components.
+- I also added some pages to continue learning about React router and how it is used. Overall I learned a lot and googled alot too, haha.
+
+- [Figma File with the wireframe and high fidelity prototype](https://www.figma.com/file/8EKRZudel3ccbNtnE9eDDd/Home-Made-Food-Website?node-id=0%3A1)
+
+**Results:** ✍ Build Home Made project with react, react router dom and styled-componets.
+
+#### [Check it live here](https://muchirijane.github.io/Home-made-React/)
+
+![Home made website with React](https://media.giphy.com/media/40sLcNLiYFEJ2KOprl/giphy.gif)
+
+---
+
+### Day 70
+
+##### Dev to blog post
+
+**Today's Progress**
+
+#### React website with styled-components for beginners.
+
+- After building the Home Made website I decided to turn it to a blog post to show others how I build it.
+
+**Results:** ✍ [A React website with Styled-components for beginners ✨](https://dev.to/tracycss/a-react-website-with-styled-components-for-beginners-3don).
+
+![Home made website with React](https://media.giphy.com/media/40sLcNLiYFEJ2KOprl/giphy.gif)
+
+---
+
+### Day 70-73
+
+##### Home Made React project
+
+**Today's Progress**
+
+#### Learning Gatsby.
+
+- This is a simple website build with Gatsby and styled-components to make it not only fast but also static compared to just using react only.
+- Building the site helped to get to know to use images in Gatsby and how to use Graphql to render the data to the front end side. I truly learned a lot from the Official Gatsby documentation with clear stated examples.
+
+**Results:** ✍ Build Home Made project with react, Gatsby JS and styled-componets.
+
+#### [Check it live here](https://relaxed-bohr-593796.netlify.app/)
+
+#### [Code On Github](https://github.com/muchirijane/travel-gatsby-site)
+
+![Home made website with React](assets/img/day-73.png)
+
+---
+
+### Day 74-75
+
+##### Dolla React project
+
+**Today's Progress**
+
+#### Learning react smooth scroll.
+
+- The dolla website was code with react and styled components. I was able to make it responsive and add react scroll for smooth scrolling down the different sections. It was a great way for me to learn how to add scroll functions and other elements.
+
+**Results:** ✍ Build dolla project with react, React scroll, react router and styled-componets.
+
+#### [Check it live here](https://muchirijane.github.io/dolla-react-website/#/)
+
+#### [Code On Github](https://github.com/muchirijane/dolla-react-website)
+
+![dolla website with React](https://media.giphy.com/media/58gDccUXM4TE0FkarW/giphy.gif)
+
+---
+
+### Day 74-75
+
+##### Dolla React project
+
+**Today's Progress**
+
+#### Learning react smooth scroll.
+
+- The dolla website was code with react and styled components. I was able to make it responsive and add react scroll for smooth scrolling down the different sections. It was a great way for me to learn how to add scroll functions and other elements.
+
+**Results:** ✍ Build dolla project with react, React scroll, react router and styled-componets.
+
+#### [Check it live here](https://muchirijane.github.io/dolla-react-website/#/)
+
+#### [Code On Github](https://github.com/muchirijane/dolla-react-website)
+
+![dolla website with React](https://media.giphy.com/media/58gDccUXM4TE0FkarW/giphy.gif)
+
+---
+
+### Day 76-78
+
+##### Dolla React project
+
+**Today's Progress**
+
+#### Learning Framer Motion.
+
+- A simple Pizza website built with React and Framer Motion. The animations are a bit extra, but it was for learning. I can't wait to build my next site with framer motion. The most important thing I have learnt so far is variants are very helpful to keep your code dry.
+
+**Results:** ✍ Build Pizza website project with react, react router and Framer Motion.
+
+#### [Check it live here](https://muchirijane.github.io/Pizza-framer-site/)
+
+#### [Code On Github](https://github.com/muchirijane/Pizza-framer-site)
+
+![Pizza website](https://media.giphy.com/media/gqwLhY8ynfpCQP4d56/giphy.gif)
+
+---
+
+### Day 80
+
+##### Dev to blog post
+
+**Today's Progress**
+
+#### Introduction to Framer Motion.
+
+- After finishing up the Pizza website, I decided to blog about framer motion basics to help others get started with it.
+
+**Results:** ✍ [20 React questions to use as you learn 💻](https://dev.to/tracycss/introduction-to-framer-motion-1jdl)
+
+![dev to blog post](assets/img/motion.gif)
 
 ---
